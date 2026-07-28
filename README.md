@@ -9,8 +9,7 @@ overkast-brand/
 ├── README.md                    このファイル。目的と更新のしかた。
 ├── AGENTS.md                    AIの入口。ファイルの所在と、編集の原則。
 ├── CLAUDE.md                    互換ファイル。AGENTS.md を読み込むだけ。
-├── context/
-│   └── OVERKAST.md              会社の一次情報。判断の前提。
+├── OVERKAST.md                  OVERKASTの一次情報。判断の前提。
 └── voice/
     ├── design-philosophy.md     デザイン思想の定義ファイル。
     └── branding-diagnosis.md    ブランディング診断ファイル。
