@@ -8,6 +8,7 @@ status: published
 name: OVERKAST
 legal_name: 株式会社オーバーキャスト
 website: https://overkast.jp/
+canonical_url: https://raw.githubusercontent.com/overkastjp/ok/main/OVERKAST.md
 
 source:
   type: first_party
