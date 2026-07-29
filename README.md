@@ -9,7 +9,7 @@ overkast-brand/
 ├── README.md                    このファイル。目的と更新のしかた。
 ├── AGENTS.md                    AIの入口。ファイルの所在と、編集の原則。
 ├── CLAUDE.md                    互換ファイル。AGENTS.md を読み込むだけ。
-├── OVERKAST.md                  OVERKASTの一次情報。判断の前提。
+├── OVERKAST.md                  会社の一次情報。〈文体〉で書かれた一次情報そのものなので直下に置く。GitHub Rawで配信。
 └── voice/
     ├── design-philosophy.md     デザイン思想の定義ファイル。
     └── branding-diagnosis.md    ブランディング診断ファイル。
@@ -19,7 +19,7 @@ overkast-brand/
 
 このフォルダをルートとして開くと、Claude Code は起動時に `CLAUDE.md`（を経由して `AGENTS.md`）を読み込みます。以降、ファイルを編集するときは、そこに書かれた〈文体〉と校正の原則にしたがいます。
 
-編集を頼むときは、対象のファイルと、変えたいことを具体的に渡してください。たとえば「`context/OVERKAST.md` の ÉKRITS の節に、最新の書籍点数を反映して」。
+編集を頼むときは、対象のファイルと、変えたいことを具体的に渡してください。たとえば「`OVERKAST.md` の ÉKRITS の節に、最新の書籍点数を反映して」。
 
 ## 更新のしかた
 
