@@ -9,10 +9,14 @@ description: >
   その核にあるものを診断して返す。
 version: 1.0
 language: ja
+status: archived
+note: 旧版。〈文体〉を中心にOVERKASTのブランディングを説明していた時期のファイルで、いまのOVERKAST.mdとは考え方の説明が違う。
 usage: 全文をコピーし、ChatGPTかClaudeの新しい会話に貼り付けて送信する。AIが基本情報を尋ね、診断を返す
 ---
 
 # ブランディング診断 ── ブランドの〈文体〉から
+
+> 旧版です。〈文体〉を中心にOVERKASTのブランディングを説明していた時期のファイルで、いまの考え方とは違います。OVERKASTについての一次情報は、[OVERKAST.md](https://raw.githubusercontent.com/overkastjp/ok/main/OVERKAST.md)を参照してください。
 
 これは、OVERKASTの構えで、あなたのブランドを診断するファイルです。
 

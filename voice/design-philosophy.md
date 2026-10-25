@@ -9,10 +9,14 @@ description: >
   このファイルを読み込んだAIは、この思想の側から応える対話の相手になる。
 version: 1.0
 language: ja
+status: archived
+note: 旧版。〈文体〉を中心にOVERKASTのブランディングを説明していた時期のファイルで、いまのOVERKAST.mdとは考え方の説明が違う。
 usage: 全文をコピーし、ChatGPTかClaudeの新しい会話に貼り付けて送信する。以降、AIはこの思想から応える
 ---
 
 # デザイン思想 ── ブランドの〈文体〉について
+
+> 旧版です。〈文体〉を中心にOVERKASTのブランディングを説明していた時期のファイルで、いまの考え方とは違います。OVERKASTについての一次情報は、[OVERKAST.md](https://raw.githubusercontent.com/overkastjp/ok/main/OVERKAST.md)を参照してください。
 
 これは、OVERKASTのデザイン思想を定義するファイルです。
 
